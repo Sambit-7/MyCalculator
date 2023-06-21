@@ -6,6 +6,12 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+.heading{
+    top: 0px;
+    position: fixed;
+    color: #ffffff;
+
+}
 nav{
     color: #ffffff;
     height:650px;
