@@ -12,6 +12,10 @@
     color: #ffffff;
 
 }
+.heading:hover{
+    color:green;
+    cursor: pointer;
+}
 nav{
     color: #ffffff;
     height:650px;
